@@ -1,1 +1,1 @@
-'console.log("Hello, CI/CD!");' 
+'autoconsole.log("Hello, CI/CD!");' 
